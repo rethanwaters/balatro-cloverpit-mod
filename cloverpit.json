@@ -1,0 +1,13 @@
+{
+    "id": "CLOVERPIT",
+    "name": "Cloverpit",
+    "author": ["Jimmy Changa"],
+    "description": "Crossover with Cloverpit.",
+    "prefix": "cloverpit",
+    "main_file": "cloverpit.lua",
+    "badge_colour": "c7638f",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
